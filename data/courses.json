@@ -1,1 +1,14 @@
-[{"title":"Angular Course","price":"1000","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROSVsyTE3Rq2DeKnZ9DvrUCTjEv6k0NTDNvw&s","id":"e52bbcd0-8059-454a-8081-9255efc83003"},{"title":"Vue Курс","price":"16000","img":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png","id":"de31eaeb-ffbd-420e-ae1c-c14d38320bb5"}]
+[
+  {
+    "title": "Angular Course",
+    "price": "1000",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROSVsyTE3Rq2DeKnZ9DvrUCTjEv6k0NTDNvw&s",
+    "id": "e52bbcd0-8059-454a-8081-9255efc83003"
+  },
+  {
+    "title": "Vue Курс",
+    "price": "16000",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png",
+    "id": "de31eaeb-ffbd-420e-ae1c-c14d38320bb5"
+  }
+]
